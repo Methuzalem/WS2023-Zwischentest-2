@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699641223 source:c:\dev\prozd\zwischentest 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699712682 source:c:\dev\prozd\zwischentest 3 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699783186 source:c:\dev\prozd\zwischentest 3 - copy - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699789679 source:c:\dev\prozd\zwischentest 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
